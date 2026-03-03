@@ -107,6 +107,10 @@ This project uses synthetic data for demonstration and capacity-building purpose
 AGBOZU EBINGIYE NELVIN
 Environmental AI | Remote Sensing | Machine Learning
 
+🔗 GitHub: https://github.com/Nelvinebi
+
+🔗 LinkedIn: https://www.linkedin.com/in/agbozu-ebi/
+
 Focus: Climate, Sustainability, and Data-Scarce Regions
 
 📜 License
